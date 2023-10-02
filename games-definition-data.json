@@ -1,0 +1,86 @@
+[
+  {
+    "gameName": "olimpia_game_1",
+    "type": "static",
+    "steps": [
+      {
+        "questionParagraphs": [
+          {
+            "type": "text",
+            "value": "Gra w statki. Każdy statek ma swój unikalny numer seryjny. Podaj lokalizację wszystkich statków na mapie"
+          },
+          {
+            "type": "image",
+            "value": "https://imageupload.io/ib/qUe3uOu2b1V2ZO4_1695662563.png"
+          }
+        ],
+        "answer": {
+          "value": "p4p17r17p18r18n"
+        },
+        "help": [
+          "Na osiedlu znajdują się 3 statki"
+        ]
+      },
+      {
+        "questionParagraphs": [
+          {
+            "type": "text",
+            "value": "Który ze wszystkich osiedlowych statków jest największy?"
+          }
+        ],
+        "answer": {
+          "value": "kż-iii-592"
+        },
+        "help": [
+          "Jest taki tylko jeden i stoi n środku osiedla"
+        ]
+      },
+      {
+        "questionParagraphs": [
+          {
+            "type": "text",
+            "value": "Czy wiesz ile kroków ma najdłuższy drewniany most osiedlowy?"
+          }
+        ],
+        "answer": {
+          "type": "minMax",
+          "value": {
+            "min": 110,
+            "max": 165
+          }
+        },
+        "help": [
+          ""
+        ]
+      },
+      {
+        "questionParagraphs": [
+          {
+            "type": "text",
+            "value": "W życiu społecznym fajnie jest mieć fajnych sąsiadów. Na szczęście Olimpia ma całkiem sympatycznego sąsiada, który wybudował całe ptasie osiedla. Czy wiesz ile ptasich rezydencji można tam znaleźć?"
+          }
+        ],
+        "answer": {
+          "value": "13"
+        },
+        "help": [
+          ""
+        ]
+      },
+      {
+        "questionParagraphs": [
+          {
+            "type": "text",
+            "value": "Gdy jest nas wielu, to możemy być zbyt dużym ciężarem. Dlatego, aby każdy z nas czuł się  komfortowo, potrzebujemy ogarniętego i silnego przewodnika, który szybko i bezpiecznie zabierze nas w docelowe miejsce. Niestety ostatni jakiego znamy, przeszedł już na emeryturę i spogląda teraz z Wrocławia w gwiazdy, choć jakaś jego część do teraz pozostała na Olimpii i przypomina mieszkańcom dawne czasy. Czy wiesz jak wspomniany przewodnik miał na imię?"
+          }
+        ],
+        "answer": {
+          "value": "ty2-1035"
+        },
+        "help": [
+          ""
+        ]
+      }
+    ]
+  }
+]
